@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39524'
     url: http://www.gutenberg.org/2009/agents/39524
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38546#Het-kaatsspelhandleiding-met-historische-aanteekeningen-en-kaatszangen
 gutenberg_issued: '2012-01-10'
 gutenberg_type: Text
 identifiers:
