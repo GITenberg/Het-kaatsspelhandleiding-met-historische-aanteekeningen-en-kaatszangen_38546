@@ -1,0 +1,24 @@
+_repo: Het-kaatsspelhandleiding-met-historische-aanteekeningen-en-kaatszangen_38546
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38546-h/images/cover-th.jpg
+creator:
+  author:
+    agent_name: Westra, Willem
+    gutenberg_agent_id: '39524'
+    url: http://www.gutenberg.org/2009/agents/39524
+description: ''
+gutenberg_issued: '2012-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38546'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Handball'
+title: "Het kaatsspel\r\nhandleiding met historische aanteekeningen en kaatszangen"
+url: http://www.gutenberg.org/ebooks/38546
